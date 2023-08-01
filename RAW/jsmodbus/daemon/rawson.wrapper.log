@@ -1,0 +1,18 @@
+2023-07-07 14:01:48 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\RAW\jsmodbus\node_modules\node-windows\lib\wrapper.js --file D:\RAW\jsmodbus\service.js --scriptoptions= --log "RAWSon wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-07 14:01:48 - Started 5296
+2023-07-12 17:36:50 - Stopping rawson.exe
+2023-07-12 17:36:50 - ProcessKill 5296
+2023-07-12 17:36:51 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-12 17:37:39 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\RAW\jsmodbus\node_modules\node-windows\lib\wrapper.js --file D:\RAW\jsmodbus\service.js --scriptoptions= --log "RAWSon wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-12 17:37:40 - Started 5788

@@ -1,0 +1,62 @@
+2023-03-25 19:09:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\Scrubber run\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\Scrubber run\service.js" --scriptoptions= --log "scrubber wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-03-25 19:09:50 - Started 4312
+2023-04-11 18:57:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\Scrubber run\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\Scrubber run\service.js" --scriptoptions= --log "scrubber wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-11 18:57:23 - Started 10060
+2023-04-12 14:26:47 - Stopping scrubber.exe
+2023-04-12 14:26:47 - ProcessKill 10060
+2023-04-12 14:26:48 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-04-12 14:27:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\Scrubber run\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\Scrubber run\service.js" --scriptoptions= --log "scrubber wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-12 14:27:30 - Started 4900
+2023-05-06 18:08:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\Scrubber run\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\Scrubber run\service.js" --scriptoptions= --log "scrubber wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 18:08:23 - Started 5432
+2023-05-10 03:34:54 - Stopping scrubber.exe
+2023-05-10 03:34:54 - ProcessKill 5432
+2023-05-10 03:34:54 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-10 03:35:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\Scrubber run\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\Scrubber run\service.js" --scriptoptions= --log "scrubber wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 03:35:30 - Started 3812
+2023-06-14 10:13:36 - Stopping scrubber.exe
+2023-06-14 10:13:36 - Finished scrubber.exe
+2023-06-14 10:14:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\Scrubber run\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\Scrubber run\service.js" --scriptoptions= --log "scrubber wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-14 10:14:17 - Started 5832
+2023-06-14 13:07:54 - Stopping scrubber.exe
+2023-06-14 13:07:54 - ProcessKill 5832
+2023-06-14 13:07:54 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-14 13:08:32 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\Scrubber run\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\Scrubber run\service.js" --scriptoptions= --log "scrubber wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-14 13:08:32 - Started 2804
+2023-07-11 11:13:24 - Stopping scrubber.exe
+2023-07-11 11:13:24 - Finished scrubber.exe
+2023-07-11 11:13:57 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\Scrubber run\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\Scrubber run\service.js" --scriptoptions= --log "scrubber wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-11 11:13:57 - Started 5380

@@ -1,0 +1,2 @@
+2023-07-15 14:44:50 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\ServiceFireAlarm\node_modules\node-windows\lib\wrapper.js --file D:\ServiceFireAlarm\index.js --scriptoptions= --log "FireAlarmSonIOT wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-15 14:44:50 - Started 6024

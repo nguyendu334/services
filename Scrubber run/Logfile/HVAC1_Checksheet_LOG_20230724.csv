@@ -1,0 +1,5 @@
+DATE,TIME,L1QuatHut,L1PumpTH_A,L1PumpTH_B,L1PumpChemical_A,L1PumpChemical_B,L1AGIGATOR,L1pH,L2QuatHut,L2PumpTH_A,L2PumpTH_B,L2PumpChemical_A,L2PumpChemical_B,L2AGIGATOR,L2pH,L3QuatHut,L3PumpTH_A,L3PumpTH_B,L3PumpChemical_A,L3PumpChemical_B,L3AGIGATOR,L3pH,L4QuatHut,L4PumpTH_A,L4PumpTH_B,L4PumpChemical_A,L4PumpChemical_B,L4AGIGATOR,L4pH
+'2023/07/24,'00:00:00,true,false,true,false,false,false,7.52,true,true,false,false,false,false,7.98,true,false,true,false,false,false,6.97,true,true,false,false,false,false,7.15
+'2023/07/24,'01:00:00,true,false,true,false,false,false,7.81,true,true,false,false,false,false,8.05,true,false,true,false,false,false,7,true,true,false,false,false,false,7.15
+'2023/07/24,'02:00:00,true,false,true,false,false,false,7.6,true,true,false,false,false,false,8.12,true,false,true,false,false,false,6.94,true,true,false,false,false,false,7.16
+'2023/07/24,'03:00:00,true,false,true,false,false,false,7.62,true,true,false,false,false,false,8,true,false,true,false,false,false,6.95,true,true,false,false,false,false,7.17

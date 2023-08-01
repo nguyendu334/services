@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "van_chính": {
+        "hotpress": false,
+        "wetline": false
+      },
+      "mực_nước": {
+        "hotpress": 73.7,
+        "wetline": 77
+      },
+      "nhiệt_độ": {
+        "hotpress": 16.227436065673828,
+        "wetline": 13.454434394836426,
+        "chiller4": 14.762317657470703,
+        "chiller5": 14.304115295410156,
+        "chiller6": 10.569753646850586,
+        "chiller7": 10.569753646850586,
+        "nước_về": {
+          "hotpress_machine_1": 20.8,
+          "hotpress_machine_2": 17.9,
+          "copper_line_1": 13.4,
+          "copper_line_2": 14.1
+        }
+      },
+      "pump": {
+        "1": false,
+        "2": true,
+        "3": true,
+        "4": false,
+        "5": false,
+        "6": true,
+        "7": false,
+        "8": true,
+        "9": false,
+        "10": true,
+        "11": true,
+        "12": false,
+        "13": false,
+        "14": true
+      },
+      "chill": {
+        "chill4": {
+          "comp": {
+            "1": true,
+            "2": true
+          },
+          "cooling1": {
+            "1": true,
+            "2": true
+          },
+          "cooling2": {
+            "1": true,
+            "2": true
+          }
+        },
+        "chill5": {
+          "comp": {
+            "1": true,
+            "2": true,
+            "3": false
+          },
+          "cooling1": {
+            "1": true,
+            "2": true
+          },
+          "cooling2": {
+            "1": true,
+            "2": true
+          },
+          "cooling3": {
+            "1": false,
+            "2": false
+          }
+        },
+        "chill6": {
+          "comp": {
+            "1": true,
+            "2": true
+          },
+          "cooling1": {
+            "1": true,
+            "2": false
+          },
+          "cooling2": {
+            "1": true,
+            "2": true
+          }
+        },
+        "chill7": {
+          "comp": {
+            "1": true,
+            "2": false
+          },
+          "cooling1": {
+            "1": true,
+            "2": true
+          },
+          "cooling2": {
+            "1": false,
+            "2": false
+          }
+        }
+      },
+      "HMI_connect": true,
+      "time": "14:54:37-31/6/2023",
+      "PLC1HMI_connect": true,
+      "PLC2_connect": true
+    }
+  ]
+}

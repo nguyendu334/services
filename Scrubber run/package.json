@@ -1,0 +1,18 @@
+{
+  "name": "Scrubber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "HIEUNV_MODBUS <tamdaitu.hsdb@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "crc": "^4.1.0",
+    "hieunv_inductrial_protocol": "^1.0.1",
+    "json-server": "^0.17.0",
+    "mqtt": "^4.3.7"
+  }
+}

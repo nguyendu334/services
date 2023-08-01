@@ -1,0 +1,24 @@
+2023-06-08 02:37:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\SMT RT\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\SMT RT\index.js" --scriptoptions= --log "SMTRT wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-08 02:37:23 - Started 10624
+2023-06-14 10:14:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\SMT RT\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\SMT RT\index.js" --scriptoptions= --log "SMTRT wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-14 10:14:17 - Started 5744
+2023-06-14 13:07:54 - Stopping smtrt.exe
+2023-06-14 13:07:54 - ProcessKill 5744
+2023-06-14 13:07:54 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-14 13:08:32 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\SMT RT\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\SMT RT\index.js" --scriptoptions= --log "SMTRT wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-14 13:08:32 - Started 4424
+2023-07-11 11:13:24 - Stopping smtrt.exe
+2023-07-11 11:13:24 - Finished smtrt.exe
+2023-07-11 11:13:57 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Windows\Desktop\SMT RT\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Windows\Desktop\SMT RT\index.js" --scriptoptions= --log "SMTRT wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-11 11:13:57 - Started 5420

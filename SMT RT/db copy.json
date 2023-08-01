@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "SMTMACHINE1": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 53.4,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE2": {
+        "LINE_ENABLE": true,
+        "PRINTER": 15.7,
+        "REFLOW": 0,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": true,
+        "REFLOW_ISCONNECTED": false
+      },
+      "SMTMACHINE3": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 56.1,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE4": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 59.8,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE5": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 55,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE6": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 52.3,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE7": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 0,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": false
+      },
+      "SMTMACHINE8": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 50.1,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE9": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 0,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": false
+      },
+      "SMTMACHINE10": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 39,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE11": {
+        "LINE_ENABLE": true,
+        "PRINTER": 21.2,
+        "REFLOW": 58.1,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": true,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE12": {
+        "LINE_ENABLE": true,
+        "PRINTER": 24.4,
+        "REFLOW": 46.4,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": true,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE13": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 52.3,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE14": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 51.3,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE15": {
+        "LINE_ENABLE": true,
+        "PRINTER": 22.6,
+        "REFLOW": 49.2,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": true,
+        "REFLOW_ISCONNECTED": true
+      },
+      "SMTMACHINE16": {
+        "LINE_ENABLE": true,
+        "PRINTER": 0,
+        "REFLOW": 0,
+        "PRINTER_DIS_BZ": false,
+        "REFLOW_DIS_BZ": false,
+        "PRINTER_ISCONNECTED": false,
+        "REFLOW_ISCONNECTED": false
+      },
+      "EXHAUFAN1": {
+        "RUNNING": false,
+        "TEMPERATURE": 0
+      },
+      "EXHAUFAN2": {
+        "RUNNING": false,
+        "TEMPERATURE": 0
+      },
+      "EXHAUFAN3": {
+        "RUNNING": false,
+        "TEMPERATURE": 0
+      },
+      "timestamp": "20220411-132314",
+      "PLC_isconnected1_7": false,
+      "PLC_isconnected8_16": false,
+      "Exhaufan_isconnected": false,
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicodfgdfgdfgdfge"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

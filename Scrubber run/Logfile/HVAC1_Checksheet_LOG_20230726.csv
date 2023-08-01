@@ -1,0 +1,2 @@
+'2023/07/26,'09:26:00,22.0,50.0,67.6,21.1,true,true,false,true,false,true,false,false,false,false,false,false,false,false,false
+DATE,TIME,Temp_SET,Humi_SET,Temperature,Humidity,Fan_Blower,Solenoid_valve1,COMP1,Solenoid_valve2,COMP2,Heater1,Heater2,Heater3,Heater4,Heater5,Humidification1,Humidification2,Water_supply,Drainage,General_alarm

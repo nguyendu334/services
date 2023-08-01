@@ -1,0 +1,2 @@
+2023-07-25 10:09:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "D:\Service Chiller\node_modules\node-windows\lib\wrapper.js" --file "D:\Service Chiller\index.js" --scriptoptions= --log "chiler wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-25 10:09:59 - Started 5900

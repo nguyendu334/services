@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "connect-pause": "^0.1.1",
+    "enum": "^3.0.4",
+    "jsmodbus": "^4.0.6",
+    "mqtt": "^4.3.2",
+    "node-datetime": "^2.1.2",
+    "node-windows": "^1.0.0-beta.8",
+    "xhr2": "^0.2.1"
+  },
+  "name": "jsmodbus",
+  "version": "1.0.0",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}

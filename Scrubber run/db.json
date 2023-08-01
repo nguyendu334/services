@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "timeStamp": "2023/07/26-10:57:07",
+      "DATAtime": "",
+      "bf": 11,
+      "Data_Realtime": {
+        "_ID_Number": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": "장비번호: số thiết bị"
+        },
+        "_Khoiphucmatdien": {
+          "_Value": 0,
+          "_Digit": "s",
+          "_Detail": "정전복귀: khôi phục mất điện"
+        },
+        "_Stop_Delay": {
+          "_Value": 0,
+          "_Digit": "s",
+          "_Detail": "정지지연: stopdelay"
+        },
+        "_Set_Temperature": {
+          "_Value": 0,
+          "_Digit": "C",
+          "_Detail": "설정온도: nhiệt độ cài đặt"
+        },
+        "_Set_Humidity": {
+          "_Value": 0,
+          "_Digit": "%",
+          "_Detail": "설정습도: độ ẩm cài đặt"
+        },
+        "_Set_dolech_Cool": {
+          "_Value": 0,
+          "_Digit": "C",
+          "_Detail": ""
+        },
+        "_Set_dolech_Heat": {
+          "_Value": 0,
+          "_Digit": "C",
+          "_Detail": ""
+        },
+        "_Set_dolect_Humi": {
+          "_Value": 0,
+          "_Digit": "%",
+          "_Detail": ""
+        },
+        "_Set_dolect_Dehumi": {
+          "_Value": 0,
+          "_Digit": "%",
+          "_Detail": ""
+        },
+        "_Runtime_Comp1": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Runtime_Comp2": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Runtime_Heater1": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Runtime_Heater2": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Runtime_Heater3": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Runtime_Heater4": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Runtime_Heater5": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Runtime_Humidity1": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Runtime_Humidity2": {
+          "_Value": 0,
+          "_Digit": "",
+          "_Detail": ""
+        },
+        "_Set_Voltage": {
+          "_Value": 380,
+          "_Digit": "V",
+          "_Detail": "설정전압: điện áp cài đặt"
+        },
+        "_Set_Wattage": {
+          "_Value": 0,
+          "_Digit": "Kg/h",
+          "_Detail": "설정용량: công suất cài đặt"
+        },
+        "_Set_recovery_capacity": {
+          "_Value": 0,
+          "_Digit": "Time",
+          "_Detail": "배수회수: số lần xả nước"
+        },
+        "_Set_Comp_Alarm": {
+          "_Value": 0,
+          "_Digit": "s",
+          "_Detail": "콤프알람: comp alarm"
+        },
+        "_Comp_delay": {
+          "_Value": 0,
+          "_Digit": "s",
+          "_Detail": "콤프지연: delay comp"
+        },
+        "_Heat_delay": {
+          "_Value": 0,
+          "_Digit": "s",
+          "_Detail": "히팅지연: delay heating"
+        },
+        "_Set_high_temp": {
+          "_Value": 0,
+          "_Digit": "C",
+          "_Detail": "고온경보: cảnh báo nhiệt độ cao"
+        },
+        "_Temperature_Value": {
+          "_Value": 0,
+          "_Digit": "C",
+          "_Detail": "현재온도: nhiệt độ hiện tại"
+        },
+        "_Humididy_Value": {
+          "_Value": 0,
+          "_Digit": "%",
+          "_Detail": "현재습도: độ ẩm hiện tại"
+        }
+      },
+      "Data_DO": {
+        "_Fan_Blower": false,
+        "_Solenoid_valve1": false,
+        "_COMP1": false,
+        "_Solenoid_valve2": false,
+        "_COMP2": false,
+        "_Heater1": false,
+        "_Heater2": false,
+        "_Heater3": false,
+        "_Heater4": false,
+        "_Heater5": false,
+        "_Humidification1": false,
+        "_Humidification2": false,
+        "_Water_supply": false,
+        "_Drainage": false,
+        "_General_alarm": false
+      },
+      "HVAC_isconnect": false,
+      "Server_isconnect": false
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicodfgdfgdfgdfge"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
